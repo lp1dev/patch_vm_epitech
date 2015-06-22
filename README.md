@@ -1,3 +1,6 @@
+EDIT : Une nouvelle VM est disponible , elle est réalisée par des tek2 et vous pouvez trouver les liens sur vos groupes Facebook Epitech de promo.
+Ce patch est donc désormais inutile pour les étudiants.
+
 Epitech Patch VM Exam 0.1
 
 tuto disponible sur http://lp1.eu/patch_vm

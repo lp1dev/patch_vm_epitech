@@ -45,4 +45,4 @@ sh patch.sh ip.de.ma.vm
 
 Il ne vous reste plus qu'a entrer le mot de passe root de la VM lorsque le script va vous le demander !
 
-Si vous avec des questions / remarques , n'hésitez pas à me contacter sur mail(at)lupin.me .
+Si vous avec des questions / remarques , n'hésitez pas à me contacter sur epitech(at)lp1.eu .
